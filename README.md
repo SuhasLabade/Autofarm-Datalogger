@@ -23,7 +23,7 @@ CSV sheet format.This whole system is powered with Solar energy with battery bac
 
 Electronics design part mainly consisting four parts - 
 1. Sensory system 
-2. Mian control unit 
+2. Main control unit 
 3. Cloud storage 
 4. Power supply 
 
@@ -35,6 +35,7 @@ However, the BME280 is also the temperature sensor that gave more stable tempera
  
 On below link most commonly used temparture sensors are compared and its showing BME280 is most suitable for this type of application. 
 https://randomnerdtutorials.com/dht11-vs-dht22-vs-lm35-vs-ds18b20-vs-bme280-vs-bmp180/
+
 Refering these results to use BME280 for this project.
 
 Temperature sensors comparision            |  Comparision graph
@@ -64,47 +65,34 @@ BME 280 mainly measures following parameters in terms of :
 ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/BME2.png)
 
 and giving these values to Analog to digital converter (ADC) and generates logic level signals to show relative values of Temperature, humidity and Presssure. 
-
-Image 2 
-
-
-
-
-
-
-
-More details of this sensor vailable here : 
-Datasheet : BME280
+More details of this sensor vailable here: 
+Datasheet : BME280 
 https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME280-DS002.pdf
 
 
 
 
-  2) Main controller board 
+#### Main control unit :
+
 ESP32 xtensa microcontroller unit used in this system.ESP32 is latest product by EPRESSIF system with robust design and 
 advanced callibration circuitary. Its ultra- low power consumption mode suits perfect for this application.Compare to Atmega 328 , 
 ESP32 comes with on chip bluetooth and wifi interface and able to use in diffrent modes.  
-
-Pin layout image ESP32 
-
-
- For this application we need to use diffrent modes depends on geographic location and electricity/ Wifi availability.
- Its easy to customize hardware with ESP32 and  perform complex application at software level. So selected ESP32 microcontroller for this device. 
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/ESP2.png)
+For this application we need to use diffrent modes depends on geographic location and electricity/ Wifi availability.
+Its easy to customize hardware with ESP32 and  perform complex application at software level. So selected ESP32 microcontroller for this device. 
 Following are specifications of ESP32 Wroom 32 developement kit :
-
-Image 1 
-
-Reffered details given here for connections and to write program: 
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/ESP1.png)
+Refered details given here for connections and to write program: 
 https://randomnerdtutorials.com/getting-started-with-esp32/
-Datasheet : https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf
 
+Datasheet : https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf
 
 Here ESP 32 takes input from BME280 sensor thorugh I2C protocol and procesess it to send it to Thingspeak webserver. 
 
 
-SIM800L GSM module : 
+#### SIM800L GSM module : 
 Here to use this device in all possible ways- where internet and electricty issues are there,
- used SIM800L module to connect this device using GPRS to Thingspeak webserver. SIM800L is GSM/GPRS module uses SIMcard to 
+used SIM800L module to connect this device using GPRS to Thingspeak webserver. SIM800L is GSM/GPRS module uses SIMcard to 
 connect with cellular network, with calling , SMS and internet facilities. For this device SIM800L works in GPRS mode to connect with Internet. 
 
 To connect this module with ESP32 microcontroller it uses serial communication protocol, which sends or receive data using TX and Rx pins. 
