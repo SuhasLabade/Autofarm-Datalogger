@@ -1,13 +1,13 @@
 # Autofarm Datalogger 
-- Project objective : To design and fabricate a device that collects and store temperature and relative humidity data 
+## Project objective : To design and fabricate a device that collects and store temperature and relative humidity data 
 to analyze and maintain plant health inside controlled envirnoment.  
 
-- Project description and Need : 
+## Project description and Need : 
 
 
 
 
-- System sketch and design:
+## System sketch and design:
 
 This device system mainly consisiting Sensor part ,Main controller board, 
 data trnsmission unit and cloud storage. Sensor part includes BOSCH make BME280 Temperature and relative humidity 
