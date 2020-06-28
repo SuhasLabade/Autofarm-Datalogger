@@ -1,5 +1,6 @@
 # Autofarm Datalogger 
-## Project objective : To design and fabricate a device that collects and store temperature and relative humidity data 
+### Project objective : 
+To design and fabricate a device that collects and store temperature and relative humidity data 
 to analyze and maintain plant health inside controlled envirnoment.  
 
 ## Project description and Need : 
