@@ -149,11 +149,11 @@ To asemble all these modules on single PCB , designed PCB shiled i n Eagle PCB d
 
 Schematic             |  Board design 
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/pcb3-copy.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/pcb2-copy.jpg)
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/pcb3%20-%20Copy.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/pcb2%20-%20Copy.png)
 
 Printed PCB shield           |  Assembled PCB 
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/pcb1-copy.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/pcb1-copy.jpg)
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/pcb1%20-%20Copy.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/pcb1%20-%20Copy.png)
 
 
 PCB layout schematic and board design files given below. 
@@ -193,11 +193,11 @@ switch and solar panel power jack.
 
 Box design             |  Box design  
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Charger.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Solar%20panel.jpg)
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/box1.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/box2.png)
 
 Dimensions          | Actual ABS casing
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Charger.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Solar%20panel.jpg)
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/box3%20-%20Copy.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Solar%20panel.jpg)
 
 
   Assembleing 1         |    Assembleing 2
