@@ -32,6 +32,7 @@ Here to measure temperature and relative humidity parameters BOSCH make BME280 s
 This module self-heats a little bit and the temperature measurements can be 1 or 2 degrees above the real temperature value.
 However, the BME280 is also the temperature sensor that gave more stable temperature readings without many oscillations between readings.
  This has to do with the resolution of the sensor. It can detect changes up to 0.01ºC.  
+ ![BME 280 sensor](https://github.com/SuhasLabade/my-projects-/blob/master/Images/BME3.jpg)
 
 
 
