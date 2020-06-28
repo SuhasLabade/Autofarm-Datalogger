@@ -111,7 +111,7 @@ Datasheet : https://img.filipeflop.com/files/download/Datasheet_SIM800L.pdf
 (Note : This module is very sensitive to power supply, ensure first wheather your supply is stable and correct)  
  
 
-#### Thingspeak cloud:
+### Thingspeak cloud:
 
 ThingSpeak is an IoT analytics platform service that allows you to aggregate, visualize, and analyze live data streams in the cloud. 
 You can send data to ThingSpeak from your devices, create instant visualization of live data, 
@@ -127,7 +127,7 @@ https://www.mathworks.com/help/thingspeak/getting-started-with-thingspeak.html
 
 
 
-#### Power supply: 
+### Power supply: 
 
 This devivce is powered with solar energy which stored in battery, considering remote farm locations with electricit unavailability. 
 
@@ -142,7 +142,7 @@ Charging module and battery connection             |  Solar panel
 ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Charger.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Solar%20panel.jpg)
 
 
-#### Circuit daigarm :
+### Circuit daigarm :
 ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/connection%20diagram.png)
 
 To asemble all these modules on single PCB , designed PCB shiled i n Eagle PCB design software and printed on SRM 20 milling machine .
@@ -161,7 +161,7 @@ PCB layout schematic and board design files given below.
 
 
 
-#### Programming : 
+### Programming : 
 
 Arduino IDE platform used to program ESP32 board. Its possible to use arduino envirnoment for this.
 Reffered this tutorial to add ESP32 board in arduino IDE patform. Following libararies need ]s to download for this program 
@@ -186,7 +186,7 @@ Thingspeak API keys declaration:
 Download whole program from here: 
 
 
-Packaging : 
+### Packaging : 
 
 To package this whole pcb here used ABS box with demensions 130mm x 130mm x 80mm. Following dimensions are used to mount ON/OFF toggle 
 switch and solar panel power jack. 
@@ -209,12 +209,12 @@ Final Hero shot :
 ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Solar%20panel.jpg)
 
 
-Installation : 
-
-Polyhouse photo 
+### Installations : 
 
 
-Thingspeak results link : 
+
+
+### Thingspeak results link : 
 
 Graphs : 
 
