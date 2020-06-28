@@ -98,29 +98,25 @@ connect with cellular network, with calling , SMS and internet facilities. For t
 To connect this module with ESP32 microcontroller it uses serial communication protocol, which sends or receive data using TX and Rx pins. 
 Module details given below: 
 
-Image 1
+Pinouts: 
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Sim2.png)
 
-Pinouts 
-
-Image 2 
-
-
+Specifications: 
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/SIm800L1.png)
 
 Datasheet : https://img.filipeflop.com/files/download/Datasheet_SIM800L.pdf
 
-
-Note : This module is very sensitive to power supply, ensure first wheather your supply is stable and correct.  
+(Note : This module is very sensitive to power supply, ensure first wheather your supply is stable and correct)  
  
 
-
-
-3) Thingspeak cloud 
+#### Thingspeak cloud:
 
 ThingSpeak is an IoT analytics platform service that allows you to aggregate, visualize, and analyze live data streams in the cloud. 
 You can send data to ThingSpeak from your devices, create instant visualization of live data, 
 and send alerts. Here to meausre, analyze and to keep datalog used this IoT platform.It mainly shows temperature 
 and humidity readings on two different channels in graphical format. We can also export all channel data in exel format. Few mathematical 
 tools are free on this to analyze data and generate results. To use this you need to out chnenel API keys into program. 
+
 To setup thingspeak server and creat channels and to get API keys reffered this tutorial given here: 
 https://www.mathworks.com/help/thingspeak/getting-started-with-thingspeak.html
 
@@ -129,30 +125,40 @@ https://www.mathworks.com/help/thingspeak/getting-started-with-thingspeak.html
 
 
 
-4) Power supply : 
+#### Power supply: 
 
 This devivce is powered with solar energy which stored in battery, considering remote farm locations with electricit unavailability. 
 
 Power consumption of this device is around 1.65W/Hr  - 2W/Hr maximum.To power up this device used here 18650
- Lithium Ion battery with 3.7 Voltage and 2800mAh capacity. To charge this with regulated voltage 
-and current used charging module with battery saving IC. Solar panel with load volatge 8V and current 1.37A charging this bettery. This whole system designed to give backup around 6-8 hours.
-If we kept data transmission every half hour then its giving backup around 8 hours. 
+Lithium Ion battery with 3.7 Voltage and 2800mAh capacity. To charge this with regulated voltage 
+and current used charging module with battery saving IC. Solar panel with load volatge 8V and current 1.37A charging this bettery. This whole system designed to give backup around 6-8 hours.If we kept data transmission every half hour then its giving backup around 8 hours. 
 
-Deatails and connection diagram given below: 
+Details and connection diagram given below: 
+Charging module and battery connection             |  Solar panel
+:---------------------------:|:-------------------------:
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Charger.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Solar%20panel.jpg)
 
 
+#### Circuit daigarm :
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/connection%20diagram.png)
 
-Circuit daigarm :
+To asemble all these modules on single PCB , designed PCB shiled i n Eagle PCB design software and printed on SRM 20 milling machine .
 
-Image 1 
+Schematic             |  Board design 
+:---------------------------:|:-------------------------:
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Charger.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Solar%20panel.jpg)
 
-To asemble all these modules on single PCB , designed PCB shiled i n Eagle PCB design software and printed on SRM 20 milling machine . 
+Printed PCB shield           |  Assembled PCB 
+:---------------------------:|:-------------------------:
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Charger.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Solar%20panel.jpg)
 
 
 PCB layout schematic and board design files given below. 
 
 
-Programming : 
+
+
+#### Programming : 
 
 Arduino IDE platform used to program ESP32 board. Its possible to use arduino envirnoment for this.
 Reffered this tutorial to add ESP32 board in arduino IDE patform. Following libararies need ]s to download for this program 
@@ -161,15 +167,17 @@ Reffered this tutorial to add ESP32 board in arduino IDE patform. Following liba
 - Wire.h
 - Adafruit_BME280
 
-Program : 
+Libraries and variables declaration :
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/program1.png)
+
+Read sensor values : 
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/program2.png)
+
+Thingspeak API keys declaration: 
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/program3.png)
 
 
-Image 1 
-2 3 
-
- 
-
-
+Download whole program from here: 
 
 
 Packaging : 
@@ -177,8 +185,22 @@ Packaging :
 To package this whole pcb here used ABS box with demensions 130mm x 130mm x 80mm. Following dimensions are used to mount ON/OFF toggle 
 switch and solar panel power jack. 
 
- 
+Box design             |  Box design  
+:---------------------------:|:-------------------------:
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Charger.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Solar%20panel.jpg)
 
+Dimensions          | Actual ABS casing
+:---------------------------:|:-------------------------:
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Charger.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Solar%20panel.jpg)
+
+
+  Assembleing 1         |    Assembleing 2
+:---------------------------:|:-------------------------:
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Charger.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Solar%20panel.jpg)
+
+Final Hero shot : 
+
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Solar%20panel.jpg)
 
 
 Installation : 
