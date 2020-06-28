@@ -21,14 +21,20 @@ CSV sheet format.This whole system is powered with Solar energy with battery bac
 
 ### Electronic design:
 
-Electronics design part mainly consisting three parts - 
+Electronics design part mainly consisting four parts - 
+1. Sensory system 
+2. Mian control unit 
+3. Cloud storage 
+4. Power supply 
 
-Sensor selection : Here to measure temperature and relative humidity parameters BOSCH make BME280 sensor selected.
+#### Sensor selection : 
+Here to measure temperature and relative humidity parameters BOSCH make BME280 sensor selected.
 This module self-heats a little bit and the temperature measurements can be 1 or 2 degrees above the real temperature value.
 However, the BME280 is also the temperature sensor that gave more stable temperature readings without many oscillations between readings.
  This has to do with the resolution of the sensor. It can detect changes up to 0.01ºC.  
 
-Image 1 
+
+
    
 On below link most commonly used temparture sensors are compared and its showing BME280 is most suitable for this type of application. 
 https://randomnerdtutorials.com/dht11-vs-dht22-vs-lm35-vs-ds18b20-vs-bme280-vs-bmp180/
