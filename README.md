@@ -3,12 +3,12 @@
 To design and fabricate a device that collects and store temperature and relative humidity data 
 to analyze and maintain plant health inside controlled envirnoment.  
 
-## Project description and Need : 
+### Project description and Need : 
 
 
 
 
-## System sketch and design:
+### System sketch and design:
 
 This device system mainly consisiting Sensor part ,Main controller board, 
 data trnsmission unit and cloud storage. Sensor part includes BOSCH make BME280 Temperature and relative humidity 
@@ -19,10 +19,11 @@ CSV sheet format.This whole system is powered with Solar energy with battery bac
 
 
 
-- Electronic design:
+### Electronic design:
 
-  Electronics design part mainly consisting three parts - 
-  Sensor selection : Here to measure temperature and relative humidity parameters BOSCH make BME280 sensor selected.
+Electronics design part mainly consisting three parts - 
+
+Sensor selection : Here to measure temperature and relative humidity parameters BOSCH make BME280 sensor selected.
 This module self-heats a little bit and the temperature measurements can be 1 or 2 degrees above the real temperature value.
 However, the BME280 is also the temperature sensor that gave more stable temperature readings without many oscillations between readings.
  This has to do with the resolution of the sensor. It can detect changes up to 0.01ºC.  
