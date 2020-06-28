@@ -32,32 +32,36 @@ Here to measure temperature and relative humidity parameters BOSCH make BME280 s
 This module self-heats a little bit and the temperature measurements can be 1 or 2 degrees above the real temperature value.
 However, the BME280 is also the temperature sensor that gave more stable temperature readings without many oscillations between readings.
  This has to do with the resolution of the sensor. It can detect changes up to 0.01ºC.  
- ![BME 280 sensor](https://github.com/SuhasLabade/my-projects-/blob/master/Images/BME3.jpg)
-
-
-
-   
+ 
 On below link most commonly used temparture sensors are compared and its showing BME280 is most suitable for this type of application. 
 https://randomnerdtutorials.com/dht11-vs-dht22-vs-lm35-vs-ds18b20-vs-bme280-vs-bmp180/
-Although temperature sensor selection is dependent on your applications. Refering these results to use BME280 for this project.
+Refering these results to use BME280 for this project.
 
-BME280 Tempreature and Humidity sensor : 
+Temperature sensors comparision            |  Comparision graph
+:---------------------------:|:-------------------------:
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/BME4.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/BME5.png)
+
+Although temperature sensor selection is dependent on your applications. 
+
+##### BME280 Temperature and Humidity sensor : 
+
 The BME280 is temperature, Humidity and Pressure sensor based on proven principle. 
 Here sensor works in I2C protocol using SDA and SCL pin connections for communication.
-
-Pin connection SDA and SCL  
-
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/BME3.png)
+  
 Following are parameters of BME 280, Opearating voltage, minimum and maximum temperature and relative Humidity range values given here: 
 
-Image 1   
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/BME1.png)
 
 How sensor works ? 
 
 BME 280 mainly measures following parameters in terms of :
+- Pressure : Resistance 
+- Temperature : Diode Voltage 
+- Humidity : Capacitanace 
 
-Pressure : Resistance 
-Temperature : Diode Voltage 
-Humidity : Capacitanace 
+
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/BME2.png)
 
 and giving these values to Analog to digital converter (ADC) and generates logic level signals to show relative values of Temperature, humidity and Presssure. 
 
