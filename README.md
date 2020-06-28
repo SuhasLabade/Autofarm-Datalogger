@@ -99,9 +99,11 @@ To connect this module with ESP32 microcontroller it uses serial communication p
 Module details given below: 
 
 Pinouts: 
+
 ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Sim2.png)
 
 Specifications: 
+
 ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/SIm800L1.png)
 
 Datasheet : https://img.filipeflop.com/files/download/Datasheet_SIM800L.pdf
@@ -134,6 +136,7 @@ Lithium Ion battery with 3.7 Voltage and 2800mAh capacity. To charge this with r
 and current used charging module with battery saving IC. Solar panel with load volatge 8V and current 1.37A charging this bettery. This whole system designed to give backup around 6-8 hours.If we kept data transmission every half hour then its giving backup around 8 hours. 
 
 Details and connection diagram given below: 
+
 Charging module and battery connection             |  Solar panel
 :---------------------------:|:-------------------------:
 ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Charger.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Solar%20panel.jpg)
@@ -146,11 +149,11 @@ To asemble all these modules on single PCB , designed PCB shiled i n Eagle PCB d
 
 Schematic             |  Board design 
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Charger.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Solar%20panel.jpg)
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/pcb3-copy.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/pcb2-copy.jpg)
 
 Printed PCB shield           |  Assembled PCB 
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Charger.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Solar%20panel.jpg)
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/pcb1-copy.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/pcb1-copy.jpg)
 
 
 PCB layout schematic and board design files given below. 
@@ -168,12 +171,15 @@ Reffered this tutorial to add ESP32 board in arduino IDE patform. Following liba
 - Adafruit_BME280
 
 Libraries and variables declaration :
+
 ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/program1.png)
 
 Read sensor values : 
+
 ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/program2.png)
 
 Thingspeak API keys declaration: 
+
 ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/program3.png)
 
 
