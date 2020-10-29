@@ -217,7 +217,7 @@ http://vadic.vigyanashram.blog/2020/06/18/polyhouse-temperature-and-humidity-dat
 
 Vigyan ashram Polyhouse         |    Thingspeak data 
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/install1.jpeg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/install2.jpeg))
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/vainstall1.jpeg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/thing1.jpeg))
 
 
 
@@ -238,8 +238,8 @@ Thingspeak channel         |    Thingspeak chennel
 
 
 
-Dome UP         |    Dome DOWN
-:---------------------------:|:-------------------------:
+Dome UP         |    Thngspeak data
+:---------------------------:|:-------------------------------------:
 ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/vainstall2.jpg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/dryer1.png)
 
 
