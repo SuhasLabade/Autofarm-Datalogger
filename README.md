@@ -216,7 +216,10 @@ Final Hero shot :
 
 ### Thingspeak results link : 
 
-Graphs : 
+Vigyan asjram Polyhouse data :
+DIC fellow Mr. Sanket Valse collected data from Vigyan ashram Polyhouse to estimate exhaust fan ON/OFF timings. Details are given here. <br>
+http://vadic.vigyanashram.blog/2020/06/18/polyhouse-temperature-and-humidity-data/
+
 
 
 
