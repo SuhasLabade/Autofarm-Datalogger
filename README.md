@@ -216,9 +216,41 @@ Final Hero shot :
 
 ### Thingspeak results link : 
 
-Vigyan asjram Polyhouse data :
+1. Vigyan ashram Polyhouse data :
 DIC fellow Mr. Sanket Valse collected data from Vigyan ashram Polyhouse to estimate exhaust fan ON/OFF timings. Details are given here. <br>
 http://vadic.vigyanashram.blog/2020/06/18/polyhouse-temperature-and-humidity-data/
+
+
+Assembleing 1         |    Assembleing 2
+:---------------------------:|:-------------------------:
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Charger.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Solar%20panel.jpg)
+
+
+2. Installations on Farmers feild 
+Ware sir (Mukhai)         |    Mr. Vitthal Umap (Jatgaon br.)
+:---------------------------:|:-------------------------:
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Charger.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Solar%20panel.jpg)
+Thingspeak channel         |    Thingspeak chennel
+:---------------------------:|:-------------------------:
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Charger.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Solar%20panel.jpg)
+
+
+3. Vigyan ashram Dome dryer Installation :
+Dome UP         |    Dome DOWN
+:---------------------------:|:-------------------------:
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Charger.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Solar%20panel.jpg)
+Thingspeak channel         |    Thingspeak chennel
+:---------------------------:|:-------------------------:
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Charger.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Solar%20panel.jpg)
+
+
+
+
+
+
+
+
+
 
 
 
