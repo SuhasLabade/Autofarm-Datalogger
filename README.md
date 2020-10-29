@@ -153,7 +153,7 @@ Schematic             |  Board design
 
 Printed PCB shield           |  Assembled PCB 
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/pcb1%20-%20Copy.jpeg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/pcb1%20-%20Copy.png)
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/pcb11.jpeg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/pcb1%20-%20Copy.png)
 
 
 PCB layout schematic and board design files given below. 
@@ -218,7 +218,7 @@ http://vadic.vigyanashram.blog/2020/06/18/polyhouse-temperature-and-humidity-dat
 
 Assembleing 1         |    Assembleing 2
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/vainstall1.jpeg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/thing1.jpeg)
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/vainstall1.jpg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/thing1.jpeg)
 
 
 2. Installations on Farmers feild 
@@ -235,7 +235,7 @@ Thingspeak channel         |    Thingspeak chennel
 3. Vigyan ashram Dome dryer Installation :
 Dome UP         |    Dome DOWN
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/vainstall2.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/dryer1.png)<br>
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/vainstall2.jpg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/dryer1.png)<br>
 
 
 
