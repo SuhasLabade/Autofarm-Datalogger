@@ -218,14 +218,14 @@ http://vadic.vigyanashram.blog/2020/06/18/polyhouse-temperature-and-humidity-dat
 
 Assembleing 1         |    Assembleing 2
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/vainstall1.jpg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/thing1.png
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/vainstall1.jpg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/thing1.png)
 
 
 2. Installations on Farmers feild 
 
 Assembleing 1         |    Assembleing 2
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/install1.jpeg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/install2.jpeg
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/install1.jpeg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/install2.jpeg))
 
 
 
@@ -234,18 +234,18 @@ Assembleing 1         |    Assembleing 2
 
 Ware sir (Mukhai)         |    Mr. Vitthal Umap (Jatgaon br.)
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/install1.jpeg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/install2.jpeg
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/install1.jpeg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/install2.jpeg)
 
 
 Thingspeak channel         |    Thingspeak chennel
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/umap1.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/umap2.png
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/umap1.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/umap2.png)
 
 
 3. Vigyan ashram Dome dryer Installation :
 Dome UP         |    Dome DOWN
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/vainstall2.jpg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/dryer1.png
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/vainstall2.jpg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/dryer1.png)
 
 
 
