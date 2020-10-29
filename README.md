@@ -153,7 +153,7 @@ Schematic             |  Board design
 
 Printed PCB shield           |  Assembled PCB 
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/pcb1%20-%20Copy1.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/pcb1%20-%20Copy.png)
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/pcb1%20-%20Copy.jpeg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/pcb1%20-%20Copy.png)
 
 
 PCB layout schematic and board design files given below. 
@@ -229,13 +229,13 @@ Ware sir (Mukhai)         |    Mr. Vitthal Umap (Jatgaon br.)
 
 Thingspeak channel         |    Thingspeak chennel
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/umap1.jpeg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/umap2.jpeg)
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/umap1.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/umap2.png)
 
 
 3. Vigyan ashram Dome dryer Installation :
 Dome UP         |    Dome DOWN
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/vainstall2.jpeg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/dryer1.jpeg)<br>
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/vainstall2.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/dryer1.png)<br>
 
 
 
