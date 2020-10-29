@@ -218,13 +218,13 @@ http://vadic.vigyanashram.blog/2020/06/18/polyhouse-temperature-and-humidity-dat
 
 Assembleing 1         |    Assembleing 2
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/vainstall1.jpg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/thing1.jpeg)
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/vainstall1.jpg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/thing1.png)
 
 
 2. Installations on Farmers feild 
 Ware sir (Mukhai)         |    Mr. Vitthal Umap (Jatgaon br.)
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/install1.jpeg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/install2.jpeg) <br>
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/install1.jpeg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/install2.jpeg)
 
 
 Thingspeak channel         |    Thingspeak chennel
