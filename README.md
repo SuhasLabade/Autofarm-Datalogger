@@ -153,7 +153,7 @@ Schematic             |  Board design
 
 Printed PCB shield           |  Assembled PCB 
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/pcb1%20-%20Copy.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/pcb1%20-%20Copy.png)
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/pcb1%20-%20Copy1.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/pcb1%20-%20Copy.png)
 
 
 PCB layout schematic and board design files given below. 
@@ -197,24 +197,19 @@ Box design             |  Box design
 
 Dimensions          | Actual ABS casing
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/box3%20-%20Copy.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Solar%20panel.jpg)
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/box3%20-%20Copy.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/absbox.jpeg)
 
 
   Assembleing 1         |    Assembleing 2
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Charger.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Solar%20panel.jpg)
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/assembly1.jpeg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/assembly2.jpeg)
 
 Final Hero shot : 
 
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Solar%20panel.jpg)
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/final.jpeg)
 
 
-### Installations : 
-
-
-
-
-### Thingspeak results link : 
+### Installations and results: 
 
 1. Vigyan ashram Polyhouse data :
 DIC fellow Mr. Sanket Valse collected data from Vigyan ashram Polyhouse to estimate exhaust fan ON/OFF timings. Details are given here. <br>
@@ -223,25 +218,24 @@ http://vadic.vigyanashram.blog/2020/06/18/polyhouse-temperature-and-humidity-dat
 
 Assembleing 1         |    Assembleing 2
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Charger.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Solar%20panel.jpg)
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/vainstall1.jpeg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/thing1.jpeg)
 
 
 2. Installations on Farmers feild 
 Ware sir (Mukhai)         |    Mr. Vitthal Umap (Jatgaon br.)
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Charger.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Solar%20panel.jpg)
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/install1.jpeg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/install2.jpeg) <br>
+
+
 Thingspeak channel         |    Thingspeak chennel
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Charger.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Solar%20panel.jpg)
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/umap1.jpeg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/umap2.jpeg)
 
 
 3. Vigyan ashram Dome dryer Installation :
 Dome UP         |    Dome DOWN
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Charger.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Solar%20panel.jpg)
-Thingspeak channel         |    Thingspeak chennel
-:---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Charger.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/Solar%20panel.jpg)
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/vainstall2.jpeg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/dryer1.jpeg)<br>
 
 
 
