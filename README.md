@@ -243,7 +243,9 @@ Dome UP         |    Thngspeak data
 ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/vainstall2.jpg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/dryer1.png)
 
 
+## Polyhuse automation and datalogging 
 
+In summer days temopreature inside Vigyan ashram Polyhouse reaches upto 45 degree (refered previous data colleted by agriculture college interns) and humidit drops down around xxxx  percent
 
 
 
