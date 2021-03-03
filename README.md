@@ -243,9 +243,37 @@ Dome UP         |    Thngspeak data
 ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/vainstall2.jpg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/dryer1.png)
 
 
-## Polyhuse automation and datalogging 
+## Polyhouse automation and datalogging 
 
-In summer days temopreature inside Vigyan ashram Polyhouse reaches upto 45 degree (refered previous data colleted by agriculture college interns) and humidit drops down around xxxx  percent
+To maintain temperature and humdidty values inside polyhouse (for now we dont know exact values) we decided to automate exhaust fans inside polyhouse with giving initially probable values. Control unit for this system that mainly includes datalogger unit and control relays , designed and installed inside polyhouse. 
+
+
+
+
+
+
+
+Currently we set values like -
+t>30  
+h>60  
+then both exhaust fans turns ON for next 10 min. If condiction remains same for next 10min then it continous its operation again for 10 min.
+Its imporatant to collect data before fan turs ON to check maximum temperature and humdicty values, system functionality and number of ON/OFF cycles. To collect this current system sending data to thingspeak cloud just before fan turns ON. 
+
+Currently we collected 15 days data from 1st Feb to 15th Feb, this data useful for setting up next iteration to check - 
+- Exhaust fan ON time 
+- Fan pad assembly ON / OFF time 
+
+ but after discussion its decided to collect following data first to setup next iteration - 
+
+- Take temperature and humidity readings  of inside and outside airflow from exhaust fan
+- Collect previous year data - Tempearture and Humidity readings of months Feb2019-June 2019 
+- Measure airflow of exhaust fan 
+
+
+
+
+
+
 
 
 
