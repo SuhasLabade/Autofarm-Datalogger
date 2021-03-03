@@ -248,16 +248,16 @@ Dome UP         |    Thngspeak data
 To maintain temperature and humdidty values inside polyhouse (for now we dont know exact values) we decided to automate exhaust fans inside polyhouse with giving initially probable values. Control unit for this system that mainly includes datalogger unit and control relays , designed and installed inside polyhouse. 
 
 
-
-
-
+Thingspeak channel         |    Thingspeak chennel
+:---------------------------:|:-------------------------:
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/umap1.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/umap2.png)  
 
 
 Currently we set values like -  
-
 t>30  
 h>60  
-then both exhaust fans turns ON for next 10 min.  
+then both exhaust fans turns ON for next 10 min.
+
 If condiction remains same for next 10min then it continous its operation again for 10 min.
 Its imporatant to collect data before fan turs ON to check maximum temperature and humdicty values, system functionality and number of ON/OFF cycles. To collect this current system sending data to thingspeak cloud just before fan turns ON. 
 
