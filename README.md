@@ -253,10 +253,12 @@ To maintain temperature and humdidty values inside polyhouse (for now we dont kn
 
 
 
-Currently we set values like -
+Currently we set values like -  
+
 t>30  
 h>60  
-then both exhaust fans turns ON for next 10 min. If condiction remains same for next 10min then it continous its operation again for 10 min.
+then both exhaust fans turns ON for next 10 min.  
+If condiction remains same for next 10min then it continous its operation again for 10 min.
 Its imporatant to collect data before fan turs ON to check maximum temperature and humdicty values, system functionality and number of ON/OFF cycles. To collect this current system sending data to thingspeak cloud just before fan turns ON. 
 
 Currently we collected 15 days data from 1st Feb to 15th Feb, this data useful for setting up next iteration to check - 
