@@ -248,7 +248,7 @@ Dome UP         |    Thngspeak data
 To maintain temperature and humdidty values inside polyhouse (for now we dont know exact values) we decided to automate exhaust fans inside polyhouse with giving initially probable values. Control unit for this system that mainly includes datalogger unit and control relays , designed and installed inside polyhouse. 
 
 
-Thingspeak channel         |    Thingspeak chennel
+Polyhouse automation unit         |  Polyhouse automation unit  
 :---------------------------:|:-------------------------:
 ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/auto1.jpg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/auto2.jpg)  
 
