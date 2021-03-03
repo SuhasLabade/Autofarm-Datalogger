@@ -265,6 +265,8 @@ Currently we collected 15 days data from 1st Feb to 15th Feb, this data useful f
 - Exhaust fan ON time 
 - Fan pad assembly ON / OFF time 
 
+find this data here : https://github.com/SuhasLabade/Autofarm-Datalogger/blob/master/Polyhouse%20readings%20(1).csv
+
  but after discussion its decided to collect following data first to setup next iteration - 
 
 - Take temperature and humidity readings  of inside and outside airflow from exhaust fan
