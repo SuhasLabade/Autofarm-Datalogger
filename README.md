@@ -250,7 +250,7 @@ To maintain temperature and humdidty values inside polyhouse (for now we dont kn
 
 Thingspeak channel         |    Thingspeak chennel
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/umap1.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/umap2.png)  
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/auto1.jpg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/auto2.jpg)  
 
 
 Currently we set values like -  
