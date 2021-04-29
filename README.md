@@ -271,6 +271,8 @@ find this data here : https://github.com/SuhasLabade/Autofarm-Datalogger/blob/ma
 
  At start of project it seems BME280 is accurate sensor (concluded on comparision test taken with different sensor modules ) but yeah its accurate but in DIY project category, its not indusrial grade sensor . What I seen temperature readings are always above ambient temperature readings if you place this sensor in  closed envirnoment where temperature goes above 35 degree. when I went throug data sheet again then I found short note this sensor has self heating        element that increases temperature readings. Relative humidity readinga are temperature dependent and found these also wrong . 
  
+ To test this compared BME 280 sensor readings with Wet and dry thermometer manual readings placed inside polyhouse at same location . It shown major difference in temperature and humidity readings, BME 280 readings are 5-6 degree above than manual readings.   
+ 
  
  
  
