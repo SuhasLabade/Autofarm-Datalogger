@@ -267,12 +267,15 @@ Currently we collected 15 days data from 1st Feb to 15th Feb, this data useful f
 
 find this data here : https://github.com/SuhasLabade/Autofarm-Datalogger/blob/master/Polyhouse%20readings%20(1).csv
 
- but after discussion its decided to collect following data first to setup next iteration - 
+### Sensor reading comparisons and conclusion 
 
-- Take temperature and humidity readings  of inside and outside airflow from exhaust fan
-- Collect previous year data - Tempearture and Humidity readings of months Feb2019-June 2019 
-- Measure airflow of exhaust fan 
-
+ At start of project it seems BME280 is accurate sensor (concluded on comparision test taken with different sensor modules ) but yeah its accurate but in DIY project category, its not indusrial grade sensor . What I seen temperature readings are always above ambient temperature readings if you place this sensor in  closed envirnoment where temperature goes above 35 degree. when I went throug data sheet again then I found short note this sensor has self heating        element that increases temperature readings. Relative humidity readinga are temperature dependent and found these also wrong . 
+ 
+ 
+ 
+ 
+ 
+ 
 
 
 
