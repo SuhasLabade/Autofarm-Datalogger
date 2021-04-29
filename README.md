@@ -279,7 +279,7 @@ To test this compared BME 280 sensor readings with Wet and dry thermometer manua
 So to replace this sensor decided to go with digital hygrometer sensor made in Vigyan ashram by DIC student Jaydeep sarode. Its two DS18B20 sensor s , one of them acting as dry bulb and another one acting as wet bulb to measure Temperature and Humdidity readings. Detailed documetation to make this sensor is available here: 
 https://jaydipdic.wordpress.com/2018/09/14/1-digital-hygrometer/
 
-Polyhouse automation unit         |  Polyhouse automation unit  
+Datalogegr unit with DIY sensors         |  Manual Drywet thermometer  
 :---------------------------:|:-------------------------:
 ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/hygro.jpg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/therm.jpg)  
 
@@ -294,7 +294,7 @@ https://www.instructables.com/ThingSpeak-IFTTT-Temp-and-Humidity-Sensor-and-Goog
 
 
 
-Polyhouse automation unit         |  Polyhouse automation unit  
+IFTTT webhook service         |  IFTTT SMS service
 :---------------------------:|:-------------------------:
 ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/web.jpg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/web2.jpg)  
 
