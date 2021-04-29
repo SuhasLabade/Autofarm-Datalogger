@@ -273,6 +273,20 @@ find this data here : https://github.com/SuhasLabade/Autofarm-Datalogger/blob/ma
  
  To test this compared BME 280 sensor readings with Wet and dry thermometer manual readings placed inside polyhouse at same location . It shown major difference in temperature and humidity readings, BME 280 readings are 5-6 degree above than manual readings.   
  
+So to replace this sensor decided to go with digital hygrometer sensor made in Vigyan ashram by DIC student Jaydeep sarode. Its two DS18B20 sensor s , one of them acting as dry bulb and another one acting as wet bulb to measure Temperature and Humdidity readings. Detailed documetation to make this sensor is available here: 
+https://jaydipdic.wordpress.com/2018/09/14/1-digital-hygrometer/
+
+Placed this unit again inside polyhouse to compare results for next 7 days. Now datalogger readings and manual reading has slight difference (1 degree in temperature and and around 2% to 3 %in realtive humidity) so now decided to go with this sensor for now. 
+
+### Notification  system 
+
+After discussion its decided to make notification system to get notofied when temperaure goes above 33 degree celcius. Here I fetched thingspeak channel data using IFTTT, MQTT and React tools. I refered this tutorial to to start notification system on mobile thorugh SMS. 
+
+https://www.instructables.com/ThingSpeak-IFTTT-Temp-and-Humidity-Sensor-and-Goog/
+
+Here im using webhook applet from IFTTT and SMS service under Notifications tag .  After this to fetch data from Thingspeak channels here ThingHTTP and React app tools on thingspeak site.  Here I registeredtwo mobile numbers with diffrent IFTTT accounts to send notofication when channel meets condition. 
+
+ 
  
  
  
