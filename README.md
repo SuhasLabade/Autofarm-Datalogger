@@ -267,24 +267,39 @@ Currently we collected 15 days data from 1st Feb to 15th Feb, this data useful f
 
 find this data here : https://github.com/SuhasLabade/Autofarm-Datalogger/blob/master/Polyhouse%20readings%20(1).csv
 
-### Sensor reading comparisons and conclusion 
+### BME280 Sensor reading comparisons and conclusion 
 
- At start of project it seems BME280 is accurate sensor (concluded on comparision test taken with different sensor modules ) but yeah its accurate but in DIY project category, its not indusrial grade sensor . What I seen temperature readings are always above ambient temperature readings if you place this sensor in  closed envirnoment where temperature goes above 35 degree. when I went throug data sheet again then I found short note this sensor has self heating        element that increases temperature readings. Relative humidity readinga are temperature dependent and found these also wrong . 
- 
- To test this compared BME 280 sensor readings with Wet and dry thermometer manual readings placed inside polyhouse at same location . It shown major difference in temperature and humidity readings, BME 280 readings are 5-6 degree above than manual readings.   
+At start of project it seems BME280 is accurate sensor (concluded on comparision test taken with different sensor modules ), yeah its accurate but in DIY project category, its not industrial grade sensor . What I seen temperature readings are always above ambient temperature readings if you place this sensor in closed envirnoment where temperature goes above 35 degree. Whn I went throug data sheet again then I found short note this sensor has self heating        element that increases temperature readings. Relative humidity readinga are temperature dependent so these also wrong.  
+
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/BME1.png)  
+
+
+To test this compared BME 280 sensor readings with Wet and dry thermometer manual readings placed inside polyhouse at same location . It shown major difference in temperature and humidity readings, BME 280 readings are 5-6 degree above than manual readings.   
  
 So to replace this sensor decided to go with digital hygrometer sensor made in Vigyan ashram by DIC student Jaydeep sarode. Its two DS18B20 sensor s , one of them acting as dry bulb and another one acting as wet bulb to measure Temperature and Humdidity readings. Detailed documetation to make this sensor is available here: 
 https://jaydipdic.wordpress.com/2018/09/14/1-digital-hygrometer/
+
+Polyhouse automation unit         |  Polyhouse automation unit  
+:---------------------------:|:-------------------------:
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/auto1.jpg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/auto2.jpg)  
+
 
 Placed this unit again inside polyhouse to compare results for next 7 days. Now datalogger readings and manual reading has slight difference (1 degree in temperature and and around 2% to 3 %in realtive humidity) so now decided to go with this sensor for now. 
 
 ### Notification  system 
 
-After discussion its decided to make notification system to get notofied when temperaure goes above 33 degree celcius. Here I fetched thingspeak channel data using IFTTT, MQTT and React tools. I refered this tutorial to to start notification system on mobile thorugh SMS. 
+After discussion its decided to make notification system to get notified when temperaure goes above 33 degree celcius. To do this I  fetched thingspeak channel data using IFTTT, MQTT and React tools. I refered this tutorial to to start notification system on mobile thorugh SMS. 
 
 https://www.instructables.com/ThingSpeak-IFTTT-Temp-and-Humidity-Sensor-and-Goog/
 
-Here im using webhook applet from IFTTT and SMS service under Notifications tag .  After this to fetch data from Thingspeak channels here ThingHTTP and React app tools on thingspeak site.  Here I registeredtwo mobile numbers with diffrent IFTTT accounts to send notofication when channel meets condition. 
+
+
+Polyhouse automation unit         |  Polyhouse automation unit  
+:---------------------------:|:-------------------------:
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/auto1.jpg)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/auto2.jpg)  
+
+
+Here I'm using webhook applet from IFTTT and SMS service under Notifications tag .  After this to fetch data from Thingspeak channels ThingHTTP and React app tools are used from  thingspeak site.  Here I registered two mobile numbers with different IFTTT accounts to send notification when channel meets condition. 
 
  
  
