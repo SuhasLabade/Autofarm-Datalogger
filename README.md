@@ -301,7 +301,14 @@ IFTTT webhook service         |  IFTTT SMS service
 
 Here I'm using webhook applet from IFTTT and SMS service under Notifications tag .  After this to fetch data from Thingspeak channels ThingHTTP and React app tools are used from  thingspeak site.  Here I registered two mobile numbers with different IFTTT accounts to send notification when channel meets condition. 
 
- 
+
+
+
+## Pest prediction system :   
+
+### Project planning sheet :
+https://docs.google.com/spreadsheets/d/19CMz691MlOZeeobZkGEcqOSUBHNNNdejx_Cc54DuWBc/edit?usp=sharing
+
  
  
  
