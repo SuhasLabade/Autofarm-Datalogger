@@ -304,10 +304,15 @@ Here I'm using webhook applet from IFTTT and SMS service under Notifications tag
 
 
 
-## Pest prediction system :   
+## Pest prediction system :
 
-### Project planning sheet :
+The main goal to start this datalogger project is to build prediction system based on collected data.  After discussion we concluded to work on scale down tunnel base polyhouse model that controls temperature and humidity effectively. Main reson to do this is to authenticate pest attack data collected in VA polyhouse. In this experiment we will plant three capsicum plants inside tuneel polyhouse structure and with electronic controller to actuate fan pad asembly and exhaust fan to maintain desired temperature and humidity.With this we can set diffrent tempearature and humidity values to check and validate percentage of pest attack.Ultimate goal of this experiment is to show temperature and humidity are key parameters to give pest predictions. 
+
+as per I prepared  project planning sheet for next 5 months 
 https://docs.google.com/spreadsheets/d/19CMz691MlOZeeobZkGEcqOSUBHNNNdejx_Cc54DuWBc/edit?usp=sharing
+
+
+
 
  
  
