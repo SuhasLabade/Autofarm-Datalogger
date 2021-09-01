@@ -304,17 +304,18 @@ Here I'm using webhook applet from IFTTT and SMS service under Notifications tag
 
 
 
-## Pest prediction system :
+## Pest prediction system (Learning phase ) :
 
-The main goal to start this datalogger project is to build prediction system based on collected data.  After discussion we concluded to work on scale down tunnel base polyhouse model that controls temperature and humidity effectively. Main reson to do this is to authenticate pest attack data collected in VA polyhouse. In this experiment we will plant three capsicum plants inside tuneel polyhouse structure and with electronic controller to actuate fan pad asembly and exhaust fan to maintain desired temperature and humidity.With this we can set diffrent tempearature and humidity values to check and validate percentage of pest attack.Ultimate goal of this experiment is to show temperature and humidity are key parameters to give pest predictions. 
+The main goal to start this datalogger project is to build prediction system based on collected data.To start with downloaded Pepper images data from Kaggale   (https://www.kaggle.com/) resource - Training and testing data with healthy and unhealthy leaves with diffrent pest attacks.   
 
-as per I prepared  project planning sheet for next 5 months 
-https://docs.google.com/spreadsheets/d/19CMz691MlOZeeobZkGEcqOSUBHNNNdejx_Cc54DuWBc/edit?usp=sharing
+Based on this data builted Cpncolutional neural network (CNN) algorithm to classify healthgy and unhelathy images using diffrent optimaization techniques. Python code with google colloboratory paltform given here. Here results are generated showing area under curve and accuracy of mathematical model.    
+https://colab.research.google.com/drive/1rXMphoft8oV6D9tK-wUPDeg4To7PjGNx  
 
-Currently tunnel structure with electronic controller is ready on field . 
+Now started working with new team members from PICT college Pune, they did again literature survey summerised in foiloowing document 
+https://docs.google.com/document/d/1QToHaObldRIRVBlOrurkXIzWXHrNiZ5y_q405-AIy1M/edit
 
 
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/t.jpg)
+
 
 
  
