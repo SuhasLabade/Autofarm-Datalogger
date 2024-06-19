@@ -1,4 +1,4 @@
-# Autofarm Datalogger 
+# Autofarm Datalogger version 1.0
 ### Project objective : 
 To design and fabricate a device that collects and store temperature and relative humidity data 
 to analyze and maintain plant health inside controlled envirnoment.  
